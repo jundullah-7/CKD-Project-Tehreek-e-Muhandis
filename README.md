@@ -20,3 +20,25 @@ Course: STA281.10 - Statistical Methods and Probability
 
 
 
+Chronic Kidney Disease (CKD) Prediction and Statistical Analysis
+Project Overview
+
+Chronic Kidney Disease (CKD) is a significant global healthcare challenge that gradually reduces kidney function and may lead to kidney failure if not detected and treated early. Early diagnosis through medical indicators can improve patient outcomes and reduce healthcare costs.
+
+This project investigates the major risk factors associated with CKD and evaluates whether CKD occurrence can be statistically predicted using healthcare data. Statistical methods and machine learning techniques are applied to analyze patient records and identify meaningful relationships between clinical variables and CKD diagnosis.
+
+The project combines healthcare analytics, statistical reasoning, predictive modeling, and computational analysis using Python and Google Colab.
+
+Objectives
+
+The main objectives of this project are:
+
+  -->Identify significant risk factors associated with Chronic Kidney Disease.
+  -->Perform exploratory data analysis using descriptive statistics.
+  -->Apply probability concepts and Bayes' theorem in healthcare analytics.
+  -->Analyze probability distributions of medical indicators.
+  -->Estimate population parameters using confidence intervals.
+  -->Conduct hypothesis testing to evaluate statistical significance.
+  -->Examine relationships among variables through correlation analysis.
+  -->Build a Logistic Regression model for CKD prediction.
+  -->Interpret findings from both statistical and medical perspectives.
