@@ -197,7 +197,6 @@ These metrics measure the effectiveness of the model in correctly identifying CK
 
 
 
-
 Project Structure:
 CKD-Statistical-Analysis/
 │
@@ -213,9 +212,9 @@ CKD-Statistical-Analysis/
 │
 ├── report/
 │   └── Project_Report.pdf
+│
 ├── README.md
 └── LICENSE
-
 
 
 Expected Outcomes:
