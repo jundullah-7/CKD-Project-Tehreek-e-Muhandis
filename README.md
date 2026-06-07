@@ -197,24 +197,28 @@ These metrics measure the effectiveness of the model in correctly identifying CK
 
 
 
-Project Structure:
+## Project Structure
+
+```text
 CKD-Statistical-Analysis/
 │
 ├── data/
-│   └── chronic_kidney_disease.csv
+│   └── chronic_kidney_disease.csv      # Raw dataset
 │
 ├── notebooks/
-│   └── CKD_Analysis.ipynb
+│   └── CKD_Analysis.ipynb              # Jupyter notebook containing data analysis
 │
 ├── images/
-│   ├── correlation_heatmap.png
-│   ├── distribution_plots.png
+│   ├── correlation_heatmap.png         # Correlation matrix visualization
+│   └── distribution_plots.png          # Feature distribution visualizations
 │
 ├── report/
-│   └── Project_Report.pdf
+│   └── Project_Report.pdf              # Final project report
 │
-├── README.md
-└── LICENSE
+├── README.md                           # Project documentation
+└── LICENSE                             # License information
+```
+
 
 
 Expected Outcomes:
