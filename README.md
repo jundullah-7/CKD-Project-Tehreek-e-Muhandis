@@ -16,6 +16,7 @@ Course: STA281.10 - Statistical Methods and Probability
 | 3  | ISTIAK AHAMED            | 2024100000273|
 | 4  | ABDUL AHAD EMON          | 2024100000487|
 | 5  | MD SHAH NAOHAJ KHAN      | 2024100000273|
+| 6  | ABDUL AHAD               | 2024100000140|
 
 
 
