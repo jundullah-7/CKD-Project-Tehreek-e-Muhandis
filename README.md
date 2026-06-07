@@ -29,16 +29,17 @@ This project investigates the major risk factors associated with CKD and evaluat
 
 The project combines healthcare analytics, statistical reasoning, predictive modeling, and computational analysis using Python and Google Colab.
 
-Objectives
+OBJECTIVES:
 
-The main objectives of this project are:
 
-  -->Identify significant risk factors associated with Chronic Kidney Disease.
-  -->Perform exploratory data analysis using descriptive statistics.
-  -->Apply probability concepts and Bayes' theorem in healthcare analytics.
-  -->Analyze probability distributions of medical indicators.
-  -->Estimate population parameters using confidence intervals.
-  -->Conduct hypothesis testing to evaluate statistical significance.
-  -->Examine relationships among variables through correlation analysis.
-  -->Build a Logistic Regression model for CKD prediction.
-  -->Interpret findings from both statistical and medical perspectives.
+| OBJECTIVE NO    |   CRITERIA                                                                    |
+|-----------------|-------------------------------------------------------------------------------|
+|    1            | Identify significant risk factors associated with Chronic Kidney Disease.     |
+|    2            | Perform exploratory data analysis using descriptive statistics.               |
+|    3            | Apply probability concepts and Bayes' theorem in healthcare analytics.        |
+|    4            | Analyze probability distributions of medical indicators.                      |
+|    5            | Estimate population parameters using confidence intervals.                    |
+|    6            | Conduct hypothesis testing to evaluate statistical significance.              |
+|    7            | Examine relationships among variables through correlation analysis.           |
+|    8            | Build a Logistic Regression model for CKD prediction.                         |
+|    9            | Interpret findings from both statistical and medical perspectives.            |
