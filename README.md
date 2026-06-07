@@ -45,7 +45,7 @@ OBJECTIVES:
 |    9            | Interpret findings from both statistical and medical perspectives.            |
 
 
-DATASET: https://www.kaggle.com/datasets/mansoordaku/ckdisease
+DATASET: PROVIDED DATASETS.
 
 DATASET VARIABLES:
 
@@ -178,8 +178,7 @@ A Logistic Regression model is developed to predict the presence of Chronic Kidn
 
 ### Model Equation
 
-![Logistic Regression](https://latex.codecogs.com/png.image?\dpi{140}P(CKD)=\frac{1}{1+e^{-(\beta_0+\beta_1X_1+\cdots+\beta_nX_n)}})
-
+P(CKD) = 1 / (1 + e^(-(β₀ + β₁X₁ + β₂X₂ + ... + βₙXₙ)))
 
 * **β₀** = Intercept term
 * **β₁, β₂, ..., βₙ** = Model coefficients
