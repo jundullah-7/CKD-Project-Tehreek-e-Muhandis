@@ -196,6 +196,28 @@ The performance of the model is evaluated using:
 These metrics measure the effectiveness of the model in correctly identifying CKD patients and distinguishing them from non-CKD cases.
 
 
+
+
+Project Structure:
+CKD-Statistical-Analysis/
+│
+├── data/
+│   └── chronic_kidney_disease.csv
+│
+├── notebooks/
+│   └── CKD_Analysis.ipynb
+│
+├── images/
+│   ├── correlation_heatmap.png
+│   ├── distribution_plots.png
+│
+├── report/
+│   └── Project_Report.pdf
+├── README.md
+└── LICENSE
+
+
+
 Expected Outcomes:
 The project aims to:
 •	Identify major medical indicators linked to CKD.
