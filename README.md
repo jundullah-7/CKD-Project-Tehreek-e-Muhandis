@@ -196,20 +196,45 @@ The performance of the model is evaluated using:
 These metrics measure the effectiveness of the model in correctly identifying CKD patients and distinguishing them from non-CKD cases.
 
 
+
+## Project Structure
+
+```text
+CKD-Statistical-Analysis/
+│
+├── data/
+│   └── chronic_kidney_disease.csv      # Raw dataset
+│
+├── notebooks/
+│   └── CKD_Analysis.ipynb              # Jupyter notebook containing data analysis
+│
+├── images/
+│   ├── correlation_heatmap.png         # Correlation matrix visualization
+│   └── distribution_plots.png          # Feature distribution visualizations
+│
+├── report/
+│   └── Project_Report.pdf              # Final project report
+│
+├── README.md                           # Project documentation
+└── LICENSE                             # License information
+```
+
+
+
 Expected Outcomes:
 The project aims to:
-•	Identify major medical indicators linked to CKD.
-•	Quantify the relationship between risk factors and disease occurrence.
-•	Evaluate the predictive power of healthcare variables.
-•	Demonstrate the application of statistical methods in healthcare analytics.
-•	Develop a reliable CKD prediction model.
+* 	Identify major medical indicators linked to CKD.
+* 	Quantify the relationship between risk factors and disease occurrence.
+* 	Evaluate the predictive power of healthcare variables.
+* 	Demonstrate the application of statistical methods in healthcare analytics.
+* 	Develop a reliable CKD prediction model.
 
 
 Results Summary:
 Key findings may include:
-•	Serum creatinine and blood urea are strong indicators of CKD.
-•	Hypertension and diabetes significantly increase CKD risk.
-•	Hemoglobin levels show negative correlation with CKD occurrence.
-•	Logistic regression provides effective prediction performance for CKD classification.
+* 	Serum creatinine and blood urea are strong indicators of CKD.
+* 	Hypertension and diabetes significantly increase CKD risk.
+* 	Hemoglobin levels show negative correlation with CKD occurrence.
+* 	Logistic regression provides effective prediction performance for CKD classification.
 
 
