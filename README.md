@@ -178,9 +178,7 @@ A Logistic Regression model is developed to predict the presence of Chronic Kidn
 
 ### Model Equation
 
-```markdown
-$P(\text{CKD}) = \frac{1}{1 + e^{-(\beta_0 + \beta_1X_1 + \cdots + \beta_nX_n)}}$
-```
+![Logistic Regression](https://latex.codecogs.com/png.image?\dpi{140}P(CKD)=\frac{1}{1+e^{-(\beta_0+\beta_1X_1+\cdots+\beta_nX_n)}})
 
 
 * **β₀** = Intercept term
