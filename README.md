@@ -219,6 +219,10 @@ CKD-Statistical-Analysis/
 │
 ├── README.md                           # Project documentation
 └── LICENSE                             # License information
+│
+├── Statistical-CKD-Risk-Factor-Analysis.pdf
+│
+├── Statistical-CKD-Risk-Factor-Analysis.pptx
 ```
 
 
