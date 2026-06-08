@@ -205,6 +205,8 @@ CKD-Statistical-Analysis/
 ├── data/
 │   └── chronic_kidney_disease.csv      # Raw dataset
 │
+├── figures/
+|
 ├── notebooks/
 │   └── CKD_Analysis.ipynb              # Jupyter notebook containing data analysis
 │
